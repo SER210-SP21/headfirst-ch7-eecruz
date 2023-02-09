@@ -1,3 +1,8 @@
+/** Assignment: Secret Message (Chapter 6 Demo)
+ *  @author: Emilio Cruz
+ *  @date: 2/9/23
+ */
+
 package edu.quinnipiac.ser210.secretmessage
 
 import android.os.Bundle
